@@ -1,4 +1,5 @@
-# Power BI Dashboard Portfolio Project
+# Plant-Company-Performance-Analysis
+
 This project demonstrates my ability to utilize Power BI to create a dynamic and informative performance dashboard. The dashboard visualizes data related to sales, accounting, and product performance, which can be useful for analysis in various industries.
 
 ## The Final Dashboard 
