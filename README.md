@@ -37,7 +37,7 @@ The dataset used for this project covers the time period from 2022 to 2024. It c
    - Conducted a thorough review of the dashboard's alignment and functionality.
 
 ## Features of the Dashboard
-- **Dynamic Metrics**: Users can seamlessly switch between various performance metrics `[Sales, Gross Profit, Quantity]` using intuitive slicers.
+- **Dynamic Metrics**: Users can seamlessly switch between various performance metrics `[Sales, Gross Profit, Quantity]` using slicers.
 - **YTD and PYTD Analysis**: The dashboard includes measures for both Year-to-Date and Prior Year-to-Date, allowing users to:
 - **YTD**: Analyze current performance metrics from January 2024 to the present day and understand operational performance over the year.
 - **PYTD**: Compare these metrics against corresponding data from the previous year, supporting effective trend analysis and decision-making.
